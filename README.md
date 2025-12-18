@@ -154,8 +154,3 @@ A `06_compare.ipynb` notebook összehasonlítja az összes algoritmus legjobb pa
 - **Notebook kimenetek**: A notebookok base64-kódolt képeket tartalmazhatnak, ami nagy fájlméretet okoz.
 	- **Megoldás**: Használd az `nbstripout` eszközt commit előtt (telepítés: `pip install nbstripout && nbstripout --install`).
 
-
-## Licenc
-
-Ez a projekt MIT licenc alatt áll. Lásd a `LICENSE` fájlt a részletekért.
-
