@@ -2,14 +2,6 @@
 
 Kísérleti játszótér klaszterező algoritmusokhoz. A projekt célja, hogy különböző elterjedt (és egy fuzzy) klaszterező módszereket egységes környezetben próbáljunk ki, mérjük és összehasonlítsuk őket szintetikus adatokon, főként a make_moons példán, skálázás után.
 
-### 🎯 Motiváció
-
-Ez a projekt hasznos lehet, ha:
-- Szeretnéd megérteni, hogyan viselkednek különböző klaszterező algoritmusok azonos adatokon
-- Összehasonlítani akarod a futási időket és belső érvényesítési metrikákat
-- Szeretnél egy gyors kiindulási pontot saját klaszterező kísérleteידhez
-- Tanulni szeretnél a paraméterhangolásról (pl. DBSCAN `eps`, K-Means `k`)
-
 ### 📦 Főbb elemek
 
 - **Algoritmusok**: K-Means, K-Medoids, Agglomeratív (Ward/Complete/Average), DBSCAN, Fuzzy C-Means (FCM)
